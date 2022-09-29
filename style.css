@@ -24,12 +24,8 @@ header {
 
 main {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
-
-
-
-
 
 .container_card {
     border-radius: 50px;
